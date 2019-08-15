@@ -1,6 +1,7 @@
 package com.zixia.provider.mapper;
 
-import com.zixia.provider.entity.User;
+import com.zixia.provider.user.entity.User;
+import com.zixia.provider.user.mapper.UserMapper;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
